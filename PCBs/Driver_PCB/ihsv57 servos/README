@@ -1,0 +1,4 @@
+IMPORTANT
+
+The pin headers on the board need to be at least 20 mm long with 15 mm stick out for the connector on the servo, the standard pin headers are too short.
+Spacing is the standard 2.54 mm.
