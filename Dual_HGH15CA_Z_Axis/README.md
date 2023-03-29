@@ -1,9 +1,9 @@
 # Dual HGH15CA Z Axis for V3 and Mini PrintNC
 
-![Front](./Images/FrontIso.png) ![Back](./Images/BackIso.png)
-
 Goal: To provide an upgrade path for X and Z to dual carriages, and add 
 mounting brackets for the cable chain and inductive sensors for X and Y axis.
+
+![Front](./Images/FrontIso.png) ![Back](./Images/BackIso.png)
 
 BOM: 
 
