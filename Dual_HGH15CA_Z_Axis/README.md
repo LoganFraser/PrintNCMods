@@ -3,7 +3,7 @@
 Goal: To provide an upgrade path for X and Z to dual carriages, and add 
 mounting brackets for the cable chain and inductive sensors for X and Y axis.
 
-`BOM: 
+BOM: 
 455mm x 125mm x 12mm / 18" x 5" x 0.5" 6061 aluminum flat bar stock (or customized length)
 250mm - 15x15x3mm / 0.75" x 0.75" x 0.125" angle steel or aluminum
 300mm SFU1204 Ballscrew with nut and BK10 block (or customized length)
@@ -25,7 +25,7 @@ Optional for inverted Z stepper:
 8 - M5 washers
 4 - M5 nuts
 4 - M6 washers
-4 - M6 nuts`
+4 - M6 nuts
 
 
 
