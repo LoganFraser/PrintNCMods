@@ -3,6 +3,10 @@
 Goal: To provide an upgrade path for X and Z to dual carriages, and add 
 mounting brackets for the cable chain and inductive sensors for X and Y axis.
 
+3d Printing:  Cable Chain and Sensor parts are designed to be printed on their side for layer strength.  Z Stepper mount is printed upside down. Drill guides are printed with the largest flat side facing down.  
+
+Parameters: There are defaults in the Modify > Change Parameters descriptions for a recommended Mini and V3 size, but you can adjust many of the parameters manually to adjust to your requirements, in particular the Z plate height can be set to 225+ for mini or 300+ for full size build (though 400mm is a reasonable maximum height)
+
 ![Front](./Images/FrontIso.png) ![Back](./Images/BackIso.png)
 
 BOM: 
