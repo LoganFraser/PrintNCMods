@@ -15,7 +15,7 @@ BOM:
 	250mm - 15x15x3mm / 0.75" x 0.75" x 0.125" angle steel or aluminum
 	300mm SFU1204 Ballscrew with nut and BK10 block (or customized length)
 	1204 Ballscrew Nut Housing (22mm internal diameter)
-	2 - 300mm HGR rail (or customized length)
+	2 - 300mm HGR15 rail (or customized length)
 	4 - HGH15CA Bearing Block
 	4 - M4 Zerk fitting
 	42 - M4-12mm cap head bolts
