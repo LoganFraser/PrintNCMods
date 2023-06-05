@@ -12,10 +12,12 @@ Compact design, passthrough jack for series connection to second PCB if desired,
 
 # Default configuration: 
 Flexihal or Grblhal 2k EST with NPN-NC sensors and a single endstop PCB: The jumpers below each of the X,Y,Z,and Probe screw terminals are connecting the passthough connection to ground to provide an active low signal so when combined with a NPN-NC input, an active low (monitored) output will result from the XOR IC gate. 
+
 ![JumpersDefault](JumpersDefault.png)
 
 # PicoBob Configuration:
 NPN-NC sensors for XYZA, Probe + Toolsetter and a single endstop PCB: X and Y are connected to Ground for the passthough input, and Z is jumpered to X and Toolsetter is jumpered to Probe to combine the inputs.
+
 ![JumpersPicoBob](JumpersPicoBob.png)
 
 For other controllers or customizing for multiple PCBs or NO sensors:
