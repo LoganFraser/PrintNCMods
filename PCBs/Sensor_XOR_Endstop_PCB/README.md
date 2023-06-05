@@ -16,9 +16,10 @@ Default configuration (Flexihal or Grblhal 2k EST with NPN-NC sensors and a sing
 For PicoBob Configuration (NPN-NC sensors for XYZA, Probe + Toolsetter and a single endstop PCB): X and Y are connected to Ground for the passthough input, and Z is jumpered to X and Toolsetter is jumpered to Probe to combine the inputs.
 ![JumpersPicoBob](JumpersPicoBob.png)
 
-Jumper X,Y,Z,P to G for NC or inverted NO single sensor
-Remove jumper for NO or second sensor on next PCB
-Connect X+Y, Z+X, P+T for XOR combined inputs
+For other controllers or customizing for multiple PCBs or NO sensors:
+-  Jumper X,Y,Z,P to G for NC or inverted NO single sensor
+-  Remove jumper for NO or second sensor on next PCB
+-  Connect X+Y, Z+X, P+T for XOR combined inputs
 
 
 Logan BC CA - Logan#2225 on [Three Design discord](https://discord.gg/fXqRkUTsUD)
