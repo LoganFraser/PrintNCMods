@@ -1,7 +1,7 @@
 # Driver Key PCB for DM542T and DM556T
 
 Goal: To provide a simple connection method from Flexihal or Grblhal 2000 IDC outputs to external drivers.
-
+![Driver Key Install](DriverKeyInstall.jpg)
 Assembly: 
 
 First solder the IDC 8 pin connector to the PCB, matching the silkscreen notch to the connector notch.  
