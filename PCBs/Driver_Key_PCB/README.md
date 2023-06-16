@@ -3,7 +3,7 @@
 
 ![Driver Keys Install](DriverKeysInstall.jpg)
 
-# Goal: To provide a simple connection method from Flexihal or Grblhal 2000 IDC outputs to external drivers.
+Goal: To provide a simple connection method from Flexihal or Grblhal 2000 IDC outputs to external drivers.
 
 # Assembly: 
 
