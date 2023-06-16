@@ -1,13 +1,16 @@
-# Driver Key PCB for DM542T and DM556T
+## Driver Key PCB for DM542T and DM556T
+
+
+![Driver Keys Install](DriverKeysInstall.jpg)
 
 Goal: To provide a simple connection method from Flexihal or Grblhal 2000 IDC outputs to external drivers.
 
-Assembly: 
+# Assembly: 
 
 First solder the IDC 8 pin connector to the PCB, matching the silkscreen notch to the connector notch.  
 ![DriverKey](DriverKey.png)
 
-Next remove the plugin screw terminal from the driver that has Enable, Step and Direction inputs on it.  
+Next remove the plugin screw terminal from the driver that has Enable, Direction and Pulse/Step inputs on it.  
 
 Cut short pieces of 0.5mm^2/20AWG of bare(stripped) solid core wire 10mm or 3/8" long, insert into the Dir +/- and Step +/- screw terminal block and tighten the screws.
 
@@ -19,6 +22,9 @@ Follow this guide to assemble the IDC cables, taking care to match the faint arr
 
 Enjoy!  
 
+As a bonus, here are the default jumpper settings for the PrintNC with 100 steps/mm for XYZ and 3A kit steppers on printed mounts.  
+
+![Default Driver Settings](DefaultDriverSettings.png)
 
 Logan BC CA - Logan#2225 on Three Design - PrintNC Discord
 https://discord.gg/fXqRkUTsUD
