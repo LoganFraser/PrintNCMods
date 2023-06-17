@@ -15,6 +15,7 @@ Next remove the plugin screw terminal from the driver that has Enable, Direction
 Cut short pieces of 0.5mm^2/20AWG of bare(stripped) solid core wire 10mm or 3/8" long, insert into the Dir +/- and Step +/- screw terminal block and tighten the screws.
 
 Next align the wires with the holes on the pcb that match the correct spacing, and solder in place.
+![AssembledKey](AssembledKey.jpg)
 
 Optional: Add wires for Enable and/or Error to the driver.  Currently neither is recommended for inital setup as it just adds confusion and doesn't provide a benefit with DM542T or DM556T drivers. 
 
