@@ -20,6 +20,7 @@ BOM:
 	4 - M4 Zerk fitting
 	42 - M4-12mm cap head bolts
 	24 - M4-20mm cap head bolts
+	4 - M5-12mm cap head bolts
 	30 - M6-12mm cap head bolts (plus 2 per cable chain and sensor mount)
 	6 - M6-20mm cap head bolts
 	4 - M6-60mm cap head bolts
