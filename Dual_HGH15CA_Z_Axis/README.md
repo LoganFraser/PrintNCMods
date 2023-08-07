@@ -7,6 +7,8 @@ mounting brackets for the cable chain and inductive sensors for X and Y axis.
 
 Parameters: There are defaults in the Modify > Change Parameters descriptions for a recommended Mini and V3 size, but you can adjust many of the parameters manually to adjust to your requirements, in particular the Z plate height can be set to 225+ for mini or 300+ for full size build (though 400mm is a reasonable maximum height)
 
+NEW in V77 - Parametric cable chain width and hole spacing.  Now can be used for larger or smaller chains than 25x57 (still uses 75mm radius as the vertical spacing)
+
 ![Front](./Images/FrontIso.png) ![Back](./Images/BackIso.png)
 
 BOM: 
