@@ -16,4 +16,5 @@ https://github.com/LoganFraser/PrintNCMods/tree/main/PCBs/Sensor_Endstop_PCB
 #### Sensor XOR Endstop PCB #### -  for combining of inputs for easier connection to controllers with limited inputs like the picobob.  
 
 https://github.com/LoganFraser/PrintNCMods/tree/main/PCBs/Sensor_XOR_Endstop_PCB
-![img](Sensor_XOR_Endstop_PCB/Sensor_XOR_1.2_Breakout_PCB.png)
+
+<img height="500" src=Sensor_XOR_Endstop_PCB/Sensor_XOR_1.2_Breakout_PCB.png>
