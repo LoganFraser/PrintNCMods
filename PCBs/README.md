@@ -17,4 +17,4 @@ https://github.com/LoganFraser/PrintNCMods/tree/main/PCBs/Sensor_Endstop_PCB
 
 https://github.com/LoganFraser/PrintNCMods/tree/main/PCBs/Sensor_XOR_Endstop_PCB
 
-<img height="500" src=Sensor_XOR_Endstop_PCB/Sensor_XOR_1.2_Breakout_PCB.png>
+<img height="400" src=Sensor_XOR_Endstop_PCB/Sensor_XOR_1.2_Breakout_PCB.png>
