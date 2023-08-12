@@ -24,8 +24,7 @@ https://github.com/LoganFraser/PrintNCMods/tree/main/PCBs/Sensor_XOR_Endstop_PCB
 <img height="400" src=Sensor_XOR_Endstop_PCB/Sensor_XOR_1.2_Breakout_PCB.png>
 
 ### Sensor Endstop ZAxis PCB ###
-Coming soon (or later, or never, issues with design came up): 
-
+Coming soon (or later, or never, issues with design came up).
 for connecting Z axis stuff at the toolhead to minimize individual cables in the cablechain.  
 Also provides a signal inversion and cable detection for NO USB-C connected 3d probes from Aliexpress. 
 
