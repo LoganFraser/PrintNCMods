@@ -10,9 +10,9 @@ a collection of pcbs that provide various functions as follows:
 Sensor Endstop PCB - designed with passthough and a jumper to series the Z axis for connecting toolsetter overtravel to Z as a hardstop. 
 
 https://github.com/LoganFraser/PrintNCMods/tree/main/PCBs/Sensor_Endstop_PCB
-https://github.com/LoganFraser/PrintNCMods/blob/main/PCBs/Sensor_Endstop_PCB/Images/SensorPCB.png
+[https://github.com/LoganFraser/PrintNCMods/blob/main/PCBs/Sensor_Endstop_PCB/Images/SensorPCB.png]
 
 Sensor XOR Endstop PCB for combining of inputs for easier connection to controllers with limited inputs like the picobob.  
 
 https://github.com/LoganFraser/PrintNCMods/tree/main/PCBs/Sensor_XOR_Endstop_PCB
-https://github.com/LoganFraser/PrintNCMods/raw/main/PCBs/Sensor_XOR_Endstop_PCB/Sensor_XOR_1.2_Breakout_PCB.png
+[https://github.com/LoganFraser/PrintNCMods/raw/main/PCBs/Sensor_XOR_Endstop_PCB/Sensor_XOR_1.2_Breakout_PCB.png]
