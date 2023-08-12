@@ -4,7 +4,7 @@
 a convenient method to connect the Grblhal2K or Flexihal to the DM542T/DM556T or other similar drivers.
 Details here: https://github.com/LoganFraser/PrintNCMods/tree/main/PCBs/Driver_Key_PCB
 
-<img height=200 src=Driver_Key_PCB/DriverKey.png>
+<img height=250 src=Driver_Key_PCB/DriverKey.png>
 
 ### Endstop PCBs: ###
 a collection of pcbs that provide various functions as follows: 
