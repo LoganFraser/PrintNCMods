@@ -12,9 +12,9 @@ a collection of pcbs that provide various functions as follows:
 ### Sensor Endstop PCB ### 
 designed with passthough and a jumper to series the Z axis for connecting toolsetter overtravel to Z as a hardstop. 
 
-https://github.com/LoganFraser/PrintNCMods/tree/main/PCBs/Sensor_Endstop_PCB
+https://github.com/LoganFraser/PrintNCMods/tree/main/PCBs/Sensor_Endstop_Gantry_PCB
 
-<img height="500" src=Sensor_Endstop_PCB/Images/SensorPCB.png>
+<img height="500" src=Sensor_Endstop_Gantry_PCB/Images/SensorPCB.png>
 
 ### Sensor XOR Endstop PCB ### 
 for combining of inputs for easier connection to controllers with limited inputs like the picobob.  
@@ -23,20 +23,18 @@ https://github.com/LoganFraser/PrintNCMods/tree/main/PCBs/Sensor_XOR_Endstop_PCB
 
 <img height="400" src=Sensor_XOR_Endstop_PCB/Sensor_XOR_1.2_Breakout_PCB.png>
 
-### Sensor Endstop ZAxis PCB ###
-Coming soon (or later, or never, issues with design came up).
-for connecting Z axis stuff at the toolhead to minimize individual cables in the cablechain.  
-Also provides a signal inversion and cable detection for NO USB-C connected 3d probes from Aliexpress. 
+### Sensor Endstop Toolhead PCB ###
+for connecting X/Z axis and 3d probe at the toolhead to minimize individual cables in the cablechain.  
 
-https://github.com/LoganFraser/PrintNCMods/tree/main/PCBs/Sensor_Endstop_ZAxis
+https://github.com/LoganFraser/PrintNCMods/tree/main/PCBs/Sensor_Endstop_Toolhead_PCB
 
-<img height=300 src=Sensor_Endstop_ZAxis/SensorEndstopZAxisPCB.png>
+<img height=300 src=Sensor_Endstop_Toolhead_PCB/SensorEndstopToolheadPCB.png>
 
 
 ### Sensor Endstop Cabinet PCB ###
 for connecting the cabinet end of the ethernet cable.
 
-https://github.com/LoganFraser/PrintNCMods/tree/main/PCBs/Sensor_Endstop_Cabinet
+https://github.com/LoganFraser/PrintNCMods/tree/main/PCBs/Sensor_Endstop_Cabinet_PCB
 
-<img height=250 src=Sensor_Endstop_Cabinet/SensorEndstopCabinet.png>
+<img height=250 src=Sensor_Endstop_Cabinet_PCB/SensorEndstopCabinet.png>
 
