@@ -34,7 +34,7 @@ https://github.com/LoganFraser/PrintNCMods/tree/main/PCBs/Sensor_Endstop_Toolhea
 ### Sensor Endstop Cabinet PCB ###
 for connecting the cabinet end of the ethernet cable.
 
-https://github.com/LoganFraser/PrintNCMods/tree/main/PCBs/Sensor_Endstop_Cabinet
+https://github.com/LoganFraser/PrintNCMods/tree/main/PCBs/Sensor_Endstop_Cabinet_PCB
 
-<img height=250 src=Sensor_Endstop_Cabinet/SensorEndstopCabinet.png>
+<img height=250 src=Sensor_Endstop_Cabinet_PCB/SensorEndstopCabinet.png>
 
