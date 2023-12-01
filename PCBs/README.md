@@ -28,9 +28,9 @@ Coming soon (or later, or never, issues with design came up).
 for connecting Z axis stuff at the toolhead to minimize individual cables in the cablechain.  
 Also provides a signal inversion and cable detection for NO USB-C connected 3d probes from Aliexpress. 
 
-https://github.com/LoganFraser/PrintNCMods/tree/main/PCBs/Sensor_Endstop_ZAxis
+https://github.com/LoganFraser/PrintNCMods/tree/main/PCBs/Sensor_Endstop_Toolhead_PCB
 
-<img height=300 src=Sensor_Endstop_ZAxis/SensorEndstopZAxisPCB.png>
+<img height=300 src=Sensor_Endstop_Toolhead_PCB/SensorEndstopZAxisPCB.png>
 
 
 ### Sensor Endstop Cabinet PCB ###
