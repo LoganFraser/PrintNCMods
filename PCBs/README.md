@@ -10,7 +10,7 @@ Details here: https://github.com/LoganFraser/PrintNCMods/tree/main/PCBs/Driver_K
 a collection of pcbs that provide various functions as follows: 
 
 ### Sensor Endstop PCB ### 
-designed with passthough and a jumper to series the Z axis for connecting toolsetter overtravel to Z as a hardstop. 
+ 
 Redesigned for simple DIY soldering, using 3mm LEDs and 1/4W resistors.
 
 https://github.com/LoganFraser/PrintNCMods/tree/main/PCBs/Sensor_Endstop_Gantry_PCB
