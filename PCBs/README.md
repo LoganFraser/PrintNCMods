@@ -33,7 +33,7 @@ https://github.com/LoganFraser/PrintNCMods/tree/main/PCBs/Sensor_Endstop_Toolhea
 
 
 ### Sensor Endstop Cabinet PCB ###
-for connecting the cabinet end of the ethernet cable.
+for connecting the cabinet end of the ethernet cable. Not needed for connection to GrblHal2k EST or FlexiHAL controllers.
 
 https://github.com/LoganFraser/PrintNCMods/tree/main/PCBs/Sensor_Endstop_Cabinet_PCB
 
