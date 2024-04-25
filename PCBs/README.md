@@ -11,7 +11,7 @@ Details here: https://github.com/LoganFraser/PrintNCMods/tree/main/PCBs/Driver_K
 ### Endstop PCBs: ###
 a collection of pcbs that provide various functions as follows: 
 
-### Sensor Endstop PCB ### 
+### Gantry Endstop Sensor PCB ### 
  
 Redesigned for simple DIY soldering, using 3mm LEDs and 1/4W resistors.
 
@@ -19,14 +19,14 @@ https://github.com/LoganFraser/PrintNCMods/tree/main/PCBs/Sensor_Endstop_Gantry_
 
 <img height="500" src=Sensor_Endstop_Gantry_PCB/Images/SensorPCB.png>
 
-### Sensor XOR Endstop PCB ### 
+### Gantry XOR Endstop Sensor PCB ### 
 for combining of inputs for easier connection to controllers with limited inputs like the picobob.  
 
 https://github.com/LoganFraser/PrintNCMods/tree/main/PCBs/Sensor_XOR_Endstop_PCB
 
 <img height="400" src=Sensor_XOR_Endstop_PCB/Sensor_XOR_1.2_Breakout_PCB.png>
 
-### Sensor Endstop Toolhead PCB ###
+### Toolhead Endstop Sensor PCB ###
 for connecting X/Z axis and 3d probe at the toolhead to minimize individual cables in the cablechain.  
 
 https://github.com/LoganFraser/PrintNCMods/tree/main/PCBs/Sensor_Endstop_Toolhead_PCB
