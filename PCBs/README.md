@@ -1,6 +1,6 @@
 ## A collection of PCBs for the PrintNC compatible with various controllers ##
 
-I sell kits for the driver keys (4 for $20 CAD, 5 for $25 CAD + shipping) and a kit with the toolhead and gantry PCBs ($15 CAD + shipping) though the PrintNC Discord https://discord.gg/rXNhba3C @logan2225
+I sell kits for the driver key PCBs that include IDC cable, connectors, jacks and pins (4 for $20 CAD, 5 for $25 CAD + shipping) and a kit with the toolhead and gantry PCBs that include screw terminals, ethernet jacks, leds and resistors ($15 CAD + shipping) though the PrintNC Discord https://discord.gg/rXNhba3C @logan2225
 
 ### Driver Key PCB ###
 a convenient method to connect the Grblhal2K or Flexihal to the DM542T/DM556T or other similar drivers.
