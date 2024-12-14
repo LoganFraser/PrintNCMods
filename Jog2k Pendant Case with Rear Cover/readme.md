@@ -7,4 +7,7 @@ I've moved the cover to the rear of the case to make it easier to install the sc
 There's a screen brace that holds the screen into the case.
 
 <img src=jog2kcase.png>
+
+This is a collection of mounts for storage of the jog2k, button pcb, and wireless or small keyboard (I use a Logitech K400)
+
 <img src=jog2kmount.png>
