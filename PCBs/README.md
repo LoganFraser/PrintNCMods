@@ -1,6 +1,6 @@
 ## A collection of PCBs for the PrintNC compatible with various controllers ##
 
-I sell kits for the driver key PCBs that include IDC cable, connectors, jacks and pins (5 for $20 CAD, $10 for assembly, + shipping) and a kit with the toolhead and gantry PCBs that include screw terminals, ethernet jacks, leds and resistors ($30 CAD, $10 for assembly, + shipping) though the PrintNC Discord https://discord.gg/rXNhba3C @logan2225
+I sell kits for the driver key PCBs that include IDC cable, connectors, jacks and pins (5 for $20 CAD, $10 for assembly, + shipping) and a kit with the toolhead and gantry PCBs that include screw terminals, ethernet jacks ($30 CAD, $10 for assembly, + shipping) though the PrintNC Discord https://discord.gg/rXNhba3C @logan2225
 
 <img src=PCB-KIT.png>
 
