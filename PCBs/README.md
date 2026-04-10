@@ -9,7 +9,9 @@ Cad files are here: https://github.com/LoganFraser/PrintNCMods/tree/main/PCBs/CA
 
 ### Driver Key PCB ###
 A convenient method to connect the Flexihal to the DM542T/DM556T or other drivers.
+
 Version 1.3 here: https://github.com/LoganFraser/PrintNCMods/tree/main/PCBs/Driver_Key_1.3_PCB
+
 Version 1.2 here: https://github.com/LoganFraser/PrintNCMods/tree/main/PCBs/Driver_Key_1.2_PCB
 
 Assembly - Use the row of pins that matches your screw terminal spacing on your stepper drivers. 
